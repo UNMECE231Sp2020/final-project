@@ -1,2 +1,4 @@
 # final-project
-final project for ECE 231
+Please read the pdf in UNM Learn.
+
+kthxbye
